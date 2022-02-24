@@ -1,4 +1,4 @@
-### Ku Ku 👋
+### Kamron Fozilov 👋
 
 I'm a 21y.o. software engineer from Uzbekistan, specialized in scalability, security, immersive user experiences and full-stack development.
 
