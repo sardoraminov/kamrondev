@@ -15,8 +15,6 @@ I'm a 21y.o. software engineer from Uzbekistan, specialized in scalability, secu
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamrondev&show_icons=true&locale=en" alt="kamrondev" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamrondev&" alt="kamrondev" /></p>
 
 ### I'm comfortable working with:
